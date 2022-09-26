@@ -1,0 +1,43 @@
+[
+  {
+    "songName": "Aankhon main - Aryans",
+    "image": "assets/images/aankhonmain.jpg",
+    "audio": "assets/audio/aankhomein.mp3"
+  },
+  {
+
+    "songName": "Building Blocks - AOT",
+    "image": "assets/images/buildingblocks.jpg",
+    "audio": "assets/audio/aot.mp3"
+  },
+  {
+
+    "songName": "Dictator Theme",
+    "image": "assets/images/dictatortheme.jpg",
+    "audio": "assets/audio/dictator.mp3"
+  },
+  {
+
+    "songName": "Ek Dilruba Hai",
+    "image": "assets/images/ekdilrubahai.jpg",
+    "audio": "assets/audio/ekdilrubahai.mp3"
+  },
+  {
+
+    "songName": "Itachi Theme",
+    "image": "assets/images/itachi.jpg",
+    "audio": "assets/audio/itachi.mp3"
+  },
+  {
+
+    "songName": "L's Theme C",
+    "image": "assets/images/l.jpg",
+    "audio": "assets/audio/ltheme.mp3"
+  },
+  {
+
+    "songName": "What is Love - Haddaway",
+    "image": "assets/images/whatislove.jpg",
+    "audio": "assets/audio/whatislove.mp3"
+  }
+]
